@@ -1,0 +1,9 @@
+{
+  "job_name": "log-report",
+  "agents": [
+    {"name": "oracle"}
+  ],
+  "tasks": [
+    {"path": "log-report"}
+  ]
+}

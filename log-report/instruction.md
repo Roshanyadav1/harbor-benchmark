@@ -1,0 +1,1 @@
+There is an access log in the working directory. Analyze the traffic and write a JSON report to /app/report.json containing the total number of requests, the number of unique client ip involved, and the most requested path.
